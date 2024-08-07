@@ -422,8 +422,12 @@ footer{
     .dont-miss h1{
         font-size: 30px;
     }
-
-
+    main,
+    footer,
+    .top-header{
+        padding: 5px 5px;
+    }
+    
     
 
     
